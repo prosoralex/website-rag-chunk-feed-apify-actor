@@ -1,0 +1,8 @@
+{
+  "name": "website-rag-chunk-feed-example",
+  "private": true,
+  "type": "module",
+  "description": "Client example for the Website Content Crawler – RAG Chunks for Vector DBs Apify Actor",
+  "scripts": { "start": "node example.mjs" },
+  "dependencies": { "apify-client": "^2.9.0" }
+}
